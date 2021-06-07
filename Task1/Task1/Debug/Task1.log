@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\borky\source\repos\Task1\Task1\main.c(10,28): warning C4013: 'getResult' undefined; assuming extern returning int
+C:\Users\borky\source\repos\Task1\Task1\main.c(16,40): warning C4142: 'getResult': benign redefinition of type
+C:\Users\borky\source\repos\Task1\Task1\main.c(22,24): warning C4013: 'number_by_index' undefined; assuming extern returning int
+C:\Users\borky\source\repos\Task1\Task1\main.c(23,19): warning C4013: 'getBinum' undefined; assuming extern returning int
+C:\Users\borky\source\repos\Task1\Task1\main.c(33,76): warning C4142: 'number_by_index': benign redefinition of type
+C:\Users\borky\source\repos\Task1\Task1\main.c(41,43): warning C4142: 'getBinum': benign redefinition of type
+  Task1.vcxproj -> C:\Users\borky\source\repos\Task1\Debug\Task1.exe
