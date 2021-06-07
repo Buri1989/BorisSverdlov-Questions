@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\borky\source\repos\Task2\Task2\main.c(17,26): warning C4013: 'number_by_index' undefined; assuming extern returning int
+C:\Users\borky\source\repos\Task2\Task2\main.c(17,48): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\borky\source\repos\Task2\Task2\main.c(24,79): warning C4142: 'number_by_index': benign redefinition of type
+C:\Users\borky\source\repos\Task2\Task2\main.c(28,19): warning C4013: 'isInputValid' undefined; assuming extern returning int
+  Task2.vcxproj -> C:\Users\borky\source\repos\Task2\Debug\Task2.exe
